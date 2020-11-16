@@ -1,0 +1,4 @@
+api:
+  nutrient:
+    baseURL: 'https://api.nal.usda.gov/fdc/v1'
+    search: '/foods/search'
